@@ -63,7 +63,7 @@ Change directory into SaHiRecon
 
 Give permissions to the script
 
-``` chmod +x SaHiRecoh.sh ```
+``` chmod +x SaHiRecon.sh ```
 
 Run it
 

@@ -13,9 +13,9 @@ Wayback Machine data retrieval using waybackurls
 Whois data extraction
 Port scanning with naabu
 CORS misconfiguration checking using katana and corsy.py
-Prerequisites
-Ensure the following tools are installed and properly configured:
 
+Prerequisites:
+Ensure the following tools are installed and properly configured:
 subfinder
 assetfinder
 httpx

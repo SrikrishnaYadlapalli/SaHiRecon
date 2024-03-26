@@ -55,11 +55,11 @@ Ensure the following tools are installed and properly configured:
 
 Clone the repository:
 
-``` git clone https://github.com/SrikrishnaYadlapalli/SaHIRecon.git ```
+``` git clone https://github.com/SrikrishnaYadlapalli/SaHiRecon.git ```
 
 Change directory into SaHiRecon
 
-``` cd SaHIRecon/ ```
+``` cd SaHiRecon/ ```
 
 Give permissions to the script
 

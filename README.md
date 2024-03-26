@@ -1,11 +1,11 @@
 # SaHiRecon
 ![image](https://github.com/SrikrishnaYadlapalli/SaHIRecon/assets/51364472/27dbb7b9-7cb8-4b8b-ac1d-35b18901b1f0)
 
-A Bash script aiding bug bounty beginners like me in reconnaissance, automating subdomain discovery, live domain identification, URL enumeration, and more.
+A Bash script designed to aid bug bounty beginners in reconnaissance by automating subdomain discovery, live domain identification, URL enumeration, and more. Organized into separate folders for easier understanding.
 
 # Overview
 
-This repository contains a Bash script for performing reconnaissance tasks in bug bounty hunting. The script automates the process of gathering information such as subdomains, live domains, URLs, parameters, Wayback Machine data, Whois data, port scanning, and CORS misconfigurations.
+This repository contains a Bash script for automating reconnaissance tasks in bug bounty hunting. It gathers information such as subdomains, live domains, URLs, parameters, Wayback Machine data, Whois data, port scanning, and CORS misconfigurations, providing beginners with the necessary information about the target domain to start bug hunting.
 
 # Features
 

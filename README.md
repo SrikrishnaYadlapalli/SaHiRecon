@@ -67,11 +67,11 @@ Give permissions to the script
 
 Run it
 
-``` /SaHiRecon.sh [DOMAIN] [OPTIONS...] ```
+``` ./SaHiRecon.sh [DOMAIN] [OPTIONS...] ```
 
 or just run the file to get usage options
 
-``` /SaHiRecon.sh ```
+``` ./SaHiRecon.sh ```
 
 ![image](https://github.com/SrikrishnaYadlapalli/SaHIRecon/assets/51364472/568214bd-e3bb-4dbf-a9c7-82fbd772139a)
 

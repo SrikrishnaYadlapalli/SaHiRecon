@@ -1,4 +1,6 @@
 # SaHiRecon
+![image](https://github.com/SrikrishnaYadlapalli/SaHIRecon/assets/51364472/27dbb7b9-7cb8-4b8b-ac1d-35b18901b1f0)
+
 A Bash script aiding bug bounty beginners like me in reconnaissance, automating subdomain discovery, live domain identification, URL enumeration, and more.
 
 # Overview
@@ -48,8 +50,34 @@ Ensure the following tools are installed and properly configured:
 
 9.corsy.py
 
+
 # Installation
 
 Clone the repository:
 
 ``` git clone https://github.com/SrikrishnaYadlapalli/SaHIRecon.git ```
+
+Change directory into SaHiRecon
+
+``` cd SaHIRecon/ ```
+
+Give permissions to the script
+
+``` chmod +x SaHiRecoh.sh ```
+
+Run it
+
+``` /SaHiRecon.sh [DOMAIN] [OPTIONS...] ```
+
+or just run the file to get usage options
+
+``` /SaHiRecon.sh ```
+
+![image](https://github.com/SrikrishnaYadlapalli/SaHIRecon/assets/51364472/568214bd-e3bb-4dbf-a9c7-82fbd772139a)
+
+
+
+
+
+
+

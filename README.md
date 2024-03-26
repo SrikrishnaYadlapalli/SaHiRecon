@@ -47,3 +47,9 @@ Ensure the following tools are installed and properly configured:
 8.katana
 
 9.corsy.py
+
+# Installation
+
+Clone the repository:
+
+``` git clone https://github.com/SrikrishnaYadlapalli/SaHIRecon.git ```
